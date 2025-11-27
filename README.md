@@ -62,7 +62,7 @@ Seaborn
 
 📦 Installation
 1. Clone the repository
-git clone https://github.com/your-username/stock-lstm.git
+git clone https://github.com/vijaymangore/Microsoft-Stock-Price-Prediction-using-LSTM.git
 cd stock-lstm
 
 2. Create a virtual environment (optional but recommended)
